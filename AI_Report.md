@@ -1,0 +1,1 @@
+I used GitHub Copilot as my coding assistant while developing this project. Copilot helped correct syntax issues, suggested cleaner and more maintainable code patterns, and helped me complete tasks faster than usual. Its targeted suggestions and quick edits improved productivity and assisted with resolving editor and configuration warnings during the build and dev workflow.
